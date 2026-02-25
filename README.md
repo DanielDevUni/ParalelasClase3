@@ -16,4 +16,4 @@ Ejercicio que muestra la diferencia entre definir variables que usan la memoria 
 
 ## Ejercicio 003
 
-Tarea: Explicar el código de este ejercicio y justificar pq es más rápido por referencia que por copia.
+Ejercicio que reporta tiempos de dos maneras de ejecutar funciones, una por valor y otra por referencia de grandes cantidades de datos y por cuantas veces más rápida es la opción de punteros.
